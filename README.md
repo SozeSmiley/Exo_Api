@@ -9,7 +9,7 @@ Exercice de réalisation d'une API avec différentes fonctionnalités :
 - npm install
 
 ## Configuration
-Créer un fichier .env avec :
+Créer un fichier .env avec votre token jwt:
 - JWT_SECRET="ASecretToken"
 
 ## Lancement
