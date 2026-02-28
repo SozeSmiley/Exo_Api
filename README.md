@@ -5,7 +5,7 @@ Exercice de réalisation d'une API avec différentes fonctionnalités :
 - Route protégée /whoami
 - Route admin /rename
 
-## Installation 
+## Installation
 npm install
 
 ## Configuration
