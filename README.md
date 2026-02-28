@@ -6,7 +6,7 @@ Exercice de réalisation d'une API avec différentes fonctionnalités :
 - Route admin /rename
 
 ## Installation 
-- npm install
+npm install
 
 ## Configuration
 Créer un fichier .env avec votre token jwt:
