@@ -13,7 +13,7 @@ Exercice de réalisation d'une API avec différentes fonctionnalités :
 
 ## Configuration
 Créer un fichier .env avec :
-JWT_SECRET="ASecretToken"
+- JWT_SECRET="ASecretToken" # Votre Token
 
 ## Lancement
 npm start
