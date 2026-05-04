@@ -1,4 +1,4 @@
-# Exo_Api
+# Api-simple
 Exercice de réalisation d'une API avec différentes fonctionnalités :
 - Route public /info
 - Route d'authentication /auth
